@@ -16,12 +16,13 @@
 $weis: hsl(204, 43%, 93%);
 
 main {
-  /*   font-family: "Karla"; */
+  background-color: hsl(218, 22%, 67%);
   min-height: 100dvh;
   display: flex;
   justify-content: center;
   align-items: center;
   article {
+    background: #fff;
     margin: 0 1.5rem;
     width: 800px;
     border-radius: 0.5rem;
